@@ -1,7 +1,0 @@
-{
- "products": [
-   {"id": 1, "name": "iPhone10"},
-   {"id": 2, "name": "Samsung Galaxy5"},
-   {"id": 3, "name": "Moto 10G"}
- ] 
-}
