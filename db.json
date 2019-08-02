@@ -17,6 +17,24 @@
     "name": "Moto 10G",
     "price": "$350.00",
     "image": "https://raw.githubusercontent.com/VictoriousVipin/vipin_db/master/moto_10G.png"
+   },
+   {
+    "id": 4,
+    "name": "Moto 7G",
+    "price": "$320.00",
+    "image": "https://raw.githubusercontent.com/VictoriousVipin/vipin_db/master/moto_10G.png"
+   },
+   {
+    "id": 5,
+    "name": "iPhone 6S",
+    "price": "$630.00",
+    "image": "https://raw.githubusercontent.com/VictoriousVipin/vipin_db/master/iphone.png"
+   },
+   {
+    "id": 6,
+    "name": "Samsung Galaxy 5i",
+    "price": "$540.00",
+    "image": "https://raw.githubusercontent.com/VictoriousVipin/vipin_db/master/Samsung+Galaxy5.png"
    }
  ] 
 }
